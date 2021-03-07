@@ -3,4 +3,4 @@ main.remove()
 
 let newHeader = document.createElement('h1')
 document.body.appendChild(newHeader)
-document.id = "victory"
+document.id = "<h1>victory</h1>"
